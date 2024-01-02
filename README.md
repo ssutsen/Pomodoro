@@ -1,3 +1,11 @@
+## Pomodoro project with next.js
+my figma draft --> [clickme](https://www.figma.com/proto/wFM4hnhG0AEvcYBvmCBcxw/Pomodoro?page-id=0%3A1&type=design&node-id=1-2&viewport=408%2C313%2C0.31&t=6aePSeXscWeTYdUn-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
+
+click to see my [demo](#)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
